@@ -21,7 +21,7 @@
 
 ### 图片展示
 
-https://laddzhao.github.io/finger-drawing-app/finger-drawing.png
+![image](https://laddzhao.github.io/finger-drawing-app/finger-drawing.png)
 
 # Finger Drawing App - Air Canvas
 
