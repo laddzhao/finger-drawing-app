@@ -20,9 +20,9 @@
 直接访问 [[GitHub Pages 链接](https://laddzhao.github.io/finger-drawing-app/)] 即可体验应用。
 
 ### 图片展示
-![image](https://laddzhao.github.io/finger-drawing-app/finger-drawing.gif)
-![image](https://laddzhao.github.io/finger-drawing-app/finger-drawing.png)
 
+![image](https://laddzhao.github.io/finger-drawing-app/finger-drawing.png)
+![image](https://laddzhao.github.io/finger-drawing-app/finger-drawing.gif)
 # Finger Drawing App - Air Canvas
 
 An innovative web application that uses computer vision and gesture recognition to enable users to write and draw in the air using their fingers through the camera.
