@@ -17,11 +17,11 @@
 
 ### 在线试用
 
-直接访问 [[GitHub Pages 链接](https://laddzhao.github.io/finger-drawing-app/)] 即可体验应用。
+直接访问 [[GitHub Pages 链接](https://zlyup.github.io/finger-drawing-app/)] 即可体验应用。
 
 ### 图片展示
 
-![image](https://laddzhao.github.io/finger-drawing-app/finger-drawing.png)
+![image](https://zlyup.github.io/finger-drawing-app/finger-drawing.png)
 
 # Finger Drawing App - Air Canvas
 
